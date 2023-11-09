@@ -1,0 +1,11 @@
+h1{
+    color: aqua;
+    text-decoration: underline;
+    text-align: center;
+}
+img{
+    margin: 0 auto;
+}
+body{
+    background-image: url('https://th.bing.com/th/id/R.638c6214e095704629a21740f9ab4e5b?rik=DX2bOdBBARPEsw&riu=http%3a%2f%2fpm1.narvii.com%2f7663%2f078977f4addcb541029280e1d9264325c50165b5r1-1191-2048v2_uhq.jpg&ehk=cgp7YDhibAxxAX7D6ZxscWcrCHHR45UQJsPUNpMArtM%3d&risl=&pid=ImgRaw&r=0');
+}
