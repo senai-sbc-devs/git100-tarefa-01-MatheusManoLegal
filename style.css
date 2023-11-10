@@ -2,8 +2,15 @@ h1{
     color: aqua;
     text-decoration: underline;
     text-align: center;
+    font-size: 40px;
+    font-family: 'Agbalumo';
+    font: 'Agbalumo';
+    
 }
 h2{
+    text-align: center;
+}
+h3{
     text-align: center;
 }
 img{
@@ -14,6 +21,9 @@ body{
     color: aliceblue;
     font-family: 'Open Sans', sans-serif;
     font: 'Open Sans';
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
 }
 div{
     width: 70%;
@@ -21,10 +31,21 @@ div{
     border: solid aliceblue 2px;
     text-align: justify;
     padding: 20px;
+    background-color: rgb(30, 29, 29);
 }
 header{
     width: 70%;
     margin: 0 auto;
+    
+}
+h2{
+    font-family: 'Agbalumo';
+    font: 'Agbalumo';
+}
+footer{
+    background-color: rgb(30, 29, 29);
+    margin: 0;
+    padding: 5%;
 }
 .creditos{
     text-align: center;
