@@ -3,9 +3,38 @@ h1{
     text-decoration: underline;
     text-align: center;
 }
+h2{
+    text-align: center;
+}
 img{
     margin: 0 auto;
 }
 body{
     background-image: url('https://th.bing.com/th/id/R.638c6214e095704629a21740f9ab4e5b?rik=DX2bOdBBARPEsw&riu=http%3a%2f%2fpm1.narvii.com%2f7663%2f078977f4addcb541029280e1d9264325c50165b5r1-1191-2048v2_uhq.jpg&ehk=cgp7YDhibAxxAX7D6ZxscWcrCHHR45UQJsPUNpMArtM%3d&risl=&pid=ImgRaw&r=0');
+    color: aliceblue;
+    font-family: 'Open Sans', sans-serif;
+    font: 'Open Sans';
+}
+div{
+    width: 70%;
+    margin: 10% auto;
+    border: solid aliceblue 2px;
+    text-align: justify;
+    padding: 20px;
+}
+header{
+    width: 70%;
+    margin: 0 auto;
+}
+.creditos{
+    text-align: center;
+}
+img{
+    margin-left: 30% ;
+}
+
+@media only screen and (max-width: 600px) {
+    img{
+        margin-left: 10%;
+    }
 }
